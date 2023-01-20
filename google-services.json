@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458781785012",
+    "project_id": "firetranslator-369f0",
+    "storage_bucket": "firetranslator-369f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458781785012:android:25ffebe2fb46c076b4d0e1",
+        "android_client_info": {
+          "package_name": "com.example.firetranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458781785012-ek4mm0abegh72chbu50igpejnr12maco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRbj66HCW28M3O0CCSQxRclgqE72w4Eb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458781785012-ek4mm0abegh72chbu50igpejnr12maco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
